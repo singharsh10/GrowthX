@@ -34,24 +34,22 @@ these simple example steps.
 ### Usage
 
 register endpoint for users and admins
-![img.png](static/user register.png)
+![img.png](static/user_register.png)
 
 login endpoint for users and admins
-![img.png](static/user login.png)
+![img.png](static/user_login.png)
 
 upload endpoint for users
-![img.png](static/upload assignment.png)
+![img.png](static/upload_assignment.png)
 
 admins endpoint for users
-![img.png](static/fetch admins.png)
+![img.png](static/fetch_admins.png)
 
 assignments endpoint for admins
-![img.png](static/fetch assignments.png)
+![img.png](static/fetch_assignments.png)
 
 accept assignment endpoint for admins
-![img.png](static/accept assignment.png)
+![img.png](static/accept_assignment.png)
 
 reject assignment endpoint for admins
-
-![img.png](static/reject assignment.png)
-  
+![img.png](static/reject_assignment.png)
